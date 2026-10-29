@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Saga Labs is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://docoapi.com/
+Saga Labs provides DocoAPI, a platform offering API documentation that stays in sync with your OpenAPI specifications. It targets developers seeking automated, up‑to‑date docs, featuring a beta service with a 14‑day free trial, pricing at $99/month, and integrations for FastAPI apps. The service includes live demos, AI coding assistance, and reliable uptime monitoring, aiming to replace costly, manual documentation processes with a seamless, always‑current developer portal.
+
+**Areas:** Company · API Documentation · Developer Tools · Software-as-a-Service · FastAPI
+
+## Saga Labs on APIs.io
+
+Everything profiled for Saga Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/docoapi/](https://apis.io/providers/docoapi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [DocoAPI](https://apis.io/apis/docoapi/docoapi/) — Platform offering API documentation that stays in sync with OpenAPI specifications.
+- [Saga Labs Admin API](https://apis.io/apis/docoapi/docoapi-admin-api/) — The admin API from Saga Labs — 2 operation(s) for admin.
+- [Saga Labs Auth API](https://apis.io/apis/docoapi/docoapi-auth-api/) — The auth API from Saga Labs — 21 operation(s) for auth.
+- [Saga Labs Billing API](https://apis.io/apis/docoapi/docoapi-billing-api/) — The billing API from Saga Labs — 3 operation(s) for billing.
+- [Saga Labs GitHub API](https://apis.io/apis/docoapi/docoapi-github-api/) — The github API from Saga Labs — 4 operation(s) for github.
+- [Saga Labs Health API](https://apis.io/apis/docoapi/docoapi-health-api/) — The Health API from Saga Labs — 1 operation(s) for health.
+- [Saga Labs MCP API](https://apis.io/apis/docoapi/docoapi-mcp-api/) — The mcp API from Saga Labs — 1 operation(s) for mcp.
+- [Saga Labs Portal API](https://apis.io/apis/docoapi/docoapi-portal-api/) — The portal API from Saga Labs — 6 operation(s) for portal.
+- [Saga Labs Portal Search API](https://apis.io/apis/docoapi/docoapi-portal-search-api/) — The portal-search API from Saga Labs — 1 operation(s) for portal-search.
+- [Saga Labs Projects API](https://apis.io/apis/docoapi/docoapi-projects-api/) — The projects API from Saga Labs — 11 operation(s) for projects.
+- [Saga Labs Proxy API](https://apis.io/apis/docoapi/docoapi-proxy-api/) — The proxy API from Saga Labs — 1 operation(s) for proxy.
+- [Saga Labs Users API](https://apis.io/apis/docoapi/docoapi-users-api/) — The users API from Saga Labs — 1 operation(s) for users.
+- [Saga Labs Webhooks API](https://apis.io/apis/docoapi/docoapi-webhooks-api/) — The webhooks API from Saga Labs — 1 operation(s) for webhooks.
+- [Saga Labs Workspaces API](https://apis.io/apis/docoapi/docoapi-workspaces-api/) — The workspaces API from Saga Labs — 1 operation(s) for workspaces.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Docoapi Context](https://apis.io/jsonld/docoapi/docoapi-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Docoapi Openapi Overlay](https://apis.io/overlays/docoapi/docoapi-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Saga Labs API Rules](https://apis.io/rules/docoapi/docoapi-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Docoapi Domain Security](https://apis.io/security/docoapi/docoapi-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://docoapi.com/)
+- [API reference](https://docoapi.com/vs/swagger)
+- [Pricing](https://docoapi.com/)
+- [Sign up](https://docoapi.com/signup)
+- [Terms of service](https://docoapi.com/terms)
+- [Privacy policy](https://docoapi.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 32.1** — thin · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.3 |
+| Contract quality | 50.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 8.9 |
+| Access clarity | 44.7 |
+
+**Agent readiness 25.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/docoapi/](https://apis.io/providers/docoapi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Saga Labs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/docoapi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
